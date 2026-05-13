@@ -1,0 +1,9 @@
+{
+   "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false
+}

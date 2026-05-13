@@ -1,0 +1,8 @@
+Lista de extensoes
+
+formulahendry.auto-rename-tag
+dbaeumer.vscode-eslint
+ecmel.vscode-html-css
+ritwickdey.LiveServer
+PKief.material-icon-theme
+esbenp.prettier-vscode
